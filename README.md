@@ -7,7 +7,7 @@
    C. [Regression, Classification, tf_estimator](https://github.com/prajinkhadka/Tensorflow-2/blob/master/Tensorflow%20Basics/Regression%2C%20Classification%2C%20TF_estimator.ipynb)
 
 
-## 3. FeedForwardNetwork_MNIST
+## 2. FeedForwardNetwork_MNIST
 
    A. [Recognizing hand written digits_v1](https://github.com/prajinkhadka/Tensorflow-2/blob/master/Feed%20Forward%20Network_MNIST/recognizing_hand_written_digits_v1.ipynb)
    
