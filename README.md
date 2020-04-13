@@ -1,30 +1,5 @@
-# TF_keras_Series
-In the time of this Lockdown
+## 1. [Tensorflow and Keras Basics](https://github.com/prajinkhadka/Tensorflow-2/blob/master/Tenosrflow_And_keras_basics.ipynb)
 
-I am starting this series on the time when everyone is in home(Covid 19 - pandemic).
-	
-	This would contain the Tesnsorflow/ keras Series basic, implemting  with some simple examples.
-	This repo. is mainly for them who are startng to learn tf2, have basic knowledge of MAachine Learning and Deep learning 
-	terms and familiar with python and basic tensorflow, keras syntax.
-	
-	
-	I have planned to Cover :- 
-	
-	Basic NN Architecture 
-	
-	1. Regression 
-	2. CNN 
-	3. Seminal Arrchitectures
-	5. Word Embeddings
-	6. RNN 
-	7. GAN
-	8. AutoEncoders
-	9. Unsupervised Learning
-	10.RL
-	11. Tensorboard in  Cloud (azure ,AWS)
-	12. Tf js, Tf Lite
-	
-  
-	Tensorflow 2 
-	Keras
-	Python
+## 2. [Callbacks, tf_datasets, gradient tape](https://github.com/prajinkhadka/Tensorflow-2/blob/master/callbacks%2Ctf_datassets%2Cgradient_tape.ipynb)
+
+## 3. [Regression, Classification, tf_estimator](https://github.com/prajinkhadka/Tensorflow-2/blob/master/Regression%2C%20Classification%2C%20TF_estimator.ipynb)
