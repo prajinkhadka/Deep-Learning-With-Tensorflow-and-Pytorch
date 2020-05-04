@@ -66,3 +66,5 @@
 I. [Batch Normalization and Dropout ( Pytorch )](https://github.com/prajinkhadka/Deep-Learning-With-Tensorflow-and-Pytorch/blob/master/Batch_Normalization_and_Dropout.ipynb)
 
 II. [Hyperparameter Tuning using MLflow ( Pytorch )](https://github.com/prajinkhadka/Deep-Learning-With-Tensorflow-and-Pytorch/blob/master/Hyper_Parameter_tuning_using_MLFLOW.ipynb)
+
+## 4. [Mini Project - Vowels, Consonants Classification using CNN Transfer Learning](https://github.com/prajinkhadka/Vowels_Consonants_Classification)
