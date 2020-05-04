@@ -62,3 +62,7 @@
    I. [Optimizing Image Classification with Hyper parameter tuning](https://github.com/prajinkhadka/Deep-Learning-With-Tensorflow-and-Pytorch/blob/master/Image%20Classification_Pytorch%20/Image%20Classification%20using%20CNN/Optimizing_Image_Classification_with_Hyper_parameter_tuning_.ipynb)
    
    J. [Transfer learning - ResNet18](https://github.com/prajinkhadka/Deep-Learning-With-Tensorflow-and-Pytorch/blob/master/Image%20Classification_Pytorch%20/Image%20Classification%20using%20CNN/Transfer_Learning_ResNet18.ipynb)
+   
+## 3. [Batch Normalization and Dropout ( Pytorch )](https://github.com/prajinkhadka/Deep-Learning-With-Tensorflow-and-Pytorch/blob/master/Batch_Normalization_and_Dropout.ipynb)
+
+## 4. [Hyperparameter Tuning using MLflow ( Pytorch )](https://github.com/prajinkhadka/Deep-Learning-With-Tensorflow-and-Pytorch/blob/master/Hyper_Parameter_tuning_using_MLFLOW.ipynb)
